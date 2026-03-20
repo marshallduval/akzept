@@ -1,0 +1,16 @@
+# Categories to keep in awesome-style output.
+Agent Protocols
+Clinical Research
+Content Provenance (C2PA)
+Cultural Heritage (CIDOC-CRM, IIIF)
+Digital Preservation (OAIS)
+Domain Applications
+Governance & Standards Bodies
+Infrastructure Projects
+Laboratory Science (ELN)
+ORNL / SC'25 Cluster
+Practitioner Evidence
+RO-Crate & Packaging
+Reproducibility
+Supply Chain (AIBOM)
+Tools & Libraries
