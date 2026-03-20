@@ -1,0 +1,932 @@
+[
+  {
+    "id": "23556265/X9SDV9WJ",
+    "type": "webpage",
+    "title": "ChatGPT Exporter (Chrome Extension)",
+    "URL": "https://chrome.google.com/webstore/detail/chatgpt-exporter/dhhpefjklgkmgeafimnjhojgjamoafof"
+  },
+  {
+    "id": "23556265/74RGA35P",
+    "type": "webpage",
+    "title": "Dublin Core Terms",
+    "URL": "http://purl.org/dc/terms"
+  },
+  {
+    "id": "23556265/EJUQGE4R",
+    "type": "webpage",
+    "title": "SPDX RDF Terms 3.0.1",
+    "URL": "https://spdx.org/rdf/3.0.1/terms"
+  },
+  {
+    "id": "23556265/Q8A5THAG",
+    "type": "webpage",
+    "title": "Schema.org Vocabulary",
+    "URL": "https://schema.org"
+  },
+  {
+    "id": "23556265/FTKPHGWP",
+    "type": "webpage",
+    "title": "PROV-JSONLD Context",
+    "URL": "https://openprovenance.org/prov-jsonld/context.jsonld"
+  },
+  {
+    "id": "23556265/8KKNK5J6",
+    "type": "webpage",
+    "title": "W3C Decentralized Identifiers (DID) 1.0",
+    "URL": "https://www.w3.org/TR/did-1.0/"
+  },
+  {
+    "id": "23556265/DXIDIPU8",
+    "type": "webpage",
+    "title": "W3C Verifiable Credentials Data Model 2.0",
+    "URL": "https://www.w3.org/TR/vc-data-model-2.0/"
+  },
+  {
+    "id": "23556265/H7XQFIW7",
+    "type": "webpage",
+    "title": "CPM RO-Crate Profile",
+    "URL": "https://w3id.org/cpm/ro-crate/0.2"
+  },
+  {
+    "id": "23556265/TGRUGJAD",
+    "type": "webpage",
+    "title": "w3id.org/software-types",
+    "URL": "https://w3id.org/software-types"
+  },
+  {
+    "id": "23556265/69DDAQSG",
+    "type": "webpage",
+    "title": "W3C RDF Schema Namespace",
+    "URL": "http://www.w3.org/2000/01/rdf-schema#"
+  },
+  {
+    "id": "23556265/ESXC95BB",
+    "type": "webpage",
+    "title": "W3C XMLSchema Namespace",
+    "URL": "http://www.w3.org/2001/XMLSchema#"
+  },
+  {
+    "id": "23556265/U7F3DNHX",
+    "type": "webpage",
+    "title": "W3C PROV Namespace",
+    "URL": "http://www.w3.org/ns/prov#"
+  },
+  {
+    "id": "23556265/KXVSBUV8",
+    "type": "software",
+    "title": "ChatGPT Export Tool (artifact source)",
+    "URL": "https://github.com/example/chatgpt-export"
+  },
+  {
+    "id": "23556265/UHBITSHP",
+    "type": "software",
+    "title": "ChatGPT Export CLI (artifact source)",
+    "URL": "https://github.com/example/chatgpt-export-cli"
+  },
+  {
+    "id": "23556265/7QFSFG9C",
+    "type": "software",
+    "title": "ChatGPT Export Utility (artifact source)",
+    "URL": "https://github.com/AhmadPanogworamas/chatgpt-export"
+  },
+  {
+    "id": "23556265/4EQVDAVC",
+    "type": "webpage",
+    "abstract": "GPAI obligations effective Aug 2025. High-risk enforcement Aug 2026. Digital Omnibus may push Annex III to Dec 2027. Context for AIBOM regulatory drivers. Session H monitoring.",
+    "title": "EU AI Act — GPAI Obligations & AIBOM Relevance",
+    "URL": "https://medium.com/@michael.hannecke/the-model-bill-of-materials-what-ai-act-auditors-will-ask-for-8bf2da012faa",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/T9WE733D",
+    "type": "paper-conference",
+    "abstract": "Automated signed AIBOM generation with cryptographic hashing, digital signatures, in-toto attestations. CAIN 2026 (Apr 12-13, Rio). Session H update: confirmed venue.",
+    "event-title": "5th International Conference on AI Engineering, Rio de Janeiro",
+    "title": "AIBoMGen: Generating an AI Bill of Materials (CAIN 2026)",
+    "URL": "https://arxiv.org/abs/2601.05703",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/QGHC4QE3",
+    "type": "report",
+    "abstract": "Final 1.x release (Oct 2025). ML-BOM since v1.5. v1.7 adds Citations (provenance of BOM data), patent fields, expanded crypto. 2026: Transparency Exchange Language (superset with AI/agentic capabilities). Session H monitoring update.",
+    "title": "CycloneDX v1.7 (ECMA-424) — ML-BOM, Citations, Crypto",
+    "URL": "https://cyclonedx.org/specification/overview/",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/KX2QPVP2",
+    "type": "report",
+    "abstract": "SPDX AI namespace for documenting AI system artifacts: training data, model architecture, energy consumption, personal data usage. ISO/IEC 5962:2021. Session H monitoring update.",
+    "title": "SPDX 3.0.1 — AI Profile",
+    "URL": "https://spdx.github.io/spdx-spec/v3.0.1/model/AI/AI/",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/QWQ8V8UP",
+    "type": "webpage",
+    "abstract": "Parent project for AIBOM Generator, Top 10 for LLMs, Agentic Application Security. 10 strategic workstreams. RSAC 2026 (Mar 23-26). Session H monitoring update.",
+    "title": "OWASP GenAI Security Project",
+    "URL": "https://genai.owasp.org/"
+  },
+  {
+    "id": "23556265/53678SJX",
+    "type": "software",
+    "abstract": "Open-source AIBOM generator for Hugging Face models. Introduced RSAC 2025, contributed to OWASP GenAI Security Project. AIBOM Generation Handbook in development. Session H monitoring update.",
+    "title": "OWASP AIBOM Generator (Hugging Face)",
+    "URL": "https://genai.owasp.org/resource/owasp-aibom-generator/"
+  },
+  {
+    "id": "23556265/CPRD3BC8",
+    "type": "webpage",
+    "abstract": "International AI for LAM conference. 2026 edition in Washington DC. AI4LAM forming as official membership org hosted by National Library of Norway.",
+    "title": "AI4LAM / Fantastic Futures 2026 (Washington DC, Sep 14-18)",
+    "URL": "https://blogs.loc.gov/thesignal/2024/06/ai4lam-fantastic-futures/",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/WMQX8MSN",
+    "type": "report",
+    "abstract": "Current published version (May 1, 2025). v2.3 explainer available. Fast-tracked as ISO standard. Session H monitoring update.",
+    "title": "C2PA Technical Specification v2.2",
+    "URL": "https://spec.c2pa.org/specifications/specifications/2.2/specs/C2PA_Specification.html",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/NN5VNE73",
+    "type": "post",
+    "abstract": "41 substantive comments on context window scaling, agent infrastructure, and production deployment patterns.",
+    "container-title": "Hacker News",
+    "title": "HN: 1M Context GA Discussion (2026-03-14)",
+    "URL": "https://news.ycombinator.com/item?id=47367129",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/SJC8XM34",
+    "type": "software",
+    "abstract": "Python wrapper for Zotero API v3.",
+    "title": "pyzotero",
+    "URL": "https://pypi.org/project/pyzotero/"
+  },
+  {
+    "id": "23556265/VDWQ2VMN",
+    "type": "software",
+    "abstract": "Python tool for depositing RO-Crates to Zenodo.",
+    "title": "rocrate-zenodo",
+    "URL": "https://pypi.org/project/rocrate-zenodo/"
+  },
+  {
+    "id": "23556265/CNE2UDBN",
+    "type": "software",
+    "abstract": "Python library for creating/manipulating RO-Crates.",
+    "title": "ro-crate-py",
+    "URL": "https://pypi.org/project/rocrate/"
+  },
+  {
+    "id": "23556265/6MN9RNB5",
+    "type": "webpage",
+    "abstract": "FAIR workflow registry using RO-Crate.",
+    "title": "WorkflowHub Registry",
+    "URL": "https://workflowhub.eu"
+  },
+  {
+    "id": "23556265/KX8NW9FD",
+    "type": "article-journal",
+    "abstract": "RO-Crate profile for recording workflow execution provenance. Key for Gap 2.",
+    "container-title": "PLoS ONE",
+    "title": "Workflow Run RO-Crate (PLoS ONE 2024)",
+    "URL": "https://doi.org/10.1371/journal.pone.0309210",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/DUNJBCF9",
+    "type": "report",
+    "abstract": "Research Object Crate — packaging standard for research data. Common Provenance Model RO-Crate confirmed live (Session G).",
+    "title": "RO-Crate Specification",
+    "URL": "https://w3id.org/ro/crate"
+  },
+  {
+    "id": "23556265/SKEHEVUW",
+    "type": "webpage",
+    "abstract": "Open platform for protocol publication and versioning. API at apidoc.protocols.io.",
+    "title": "protocols.io — Protocol Publication Platform",
+    "URL": "https://www.protocols.io"
+  },
+  {
+    "id": "23556265/BX9RA7SF",
+    "type": "report",
+    "abstract": "PROV-O/P-Plan extension for experiment reproducibility. ProvBook tool for Jupyter notebook provenance. Near-tier provenance cluster.",
+    "title": "REPRODUCE-ME Ontology",
+    "URL": "https://w3id.org/Reproduce-ME"
+  },
+  {
+    "id": "23556265/QARGMPTA",
+    "type": "report",
+    "abstract": "Electronic Lab Notebook file format based on RO-Crate. IANA media type: application/vnd.eln+zip. Third independent RO-Crate convergence point (Gap 2).",
+    "title": "ELN Consortium — .eln File Format",
+    "URL": "https://github.com/TheELNConsortium/TheELNFileFormat"
+  },
+  {
+    "id": "23556265/4AZEMNZU",
+    "type": "webpage",
+    "abstract": "Findable, Accessible, Interoperable, Reusable data principles.",
+    "title": "FAIR Guiding Principles",
+    "URL": "https://www.go-fair.org/fair-principles/"
+  },
+  {
+    "id": "23556265/IDDHSNES",
+    "type": "webpage",
+    "abstract": "Reporting guideline for AI in clinical trials.",
+    "title": "CONSORT-AI Reporting Guideline",
+    "URL": "https://www.consort-statement.org/consort-ai"
+  },
+  {
+    "id": "23556265/22J5SPGP",
+    "type": "webpage",
+    "abstract": "70-member global consortium. Presentation API v3 current, v4 release candidate (target June 2026).",
+    "title": "IIIF Consortium — International Image Interoperability Framework",
+    "URL": "https://iiif.io/"
+  },
+  {
+    "id": "23556265/CET4FQWM",
+    "type": "report",
+    "abstract": "Conceptual Reference Model for cultural heritage. Published March 2026. SIG meetings: Oxford (Mar 23-26), Nuremberg (Oct 6-9).",
+    "title": "CIDOC-CRM v7.3.2 (ISO 21127:2023)",
+    "URL": "https://cidoc-crm.org/Version/version-7.3.2",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/8FXEFXWB",
+    "type": "report",
+    "abstract": "NIST AI Risk Management Framework. Published January 2023. GenAI Profile: AI 600-1 (2024). Cyber AI Profile: IR 8596 (preliminary draft).",
+    "title": "NIST AI RMF 1.0 — AI Risk Management Framework",
+    "URL": "https://www.nist.gov/artificial-intelligence/ai-standards",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/43GA7DF4",
+    "type": "article",
+    "abstract": "Tool and methodology for generating AIBOMs.",
+    "title": "AIBoMGen: Generating an AI Bill of Materials",
+    "URL": "https://arxiv.org/abs/2601.05703",
+    "author": [
+      {
+        "family": "Vandendriessche",
+        "given": "W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/7XTXWRVX",
+    "type": "article-journal",
+    "abstract": "Accepted January 2026.",
+    "container-title": "Frontiers in Computer Science",
+    "title": "Operationalising Artificial Intelligence Bills of Materials",
+    "URL": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1735919/abstract",
+    "author": [
+      {
+        "family": "Radanliev",
+        "given": "P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/GM8I7M5S",
+    "type": "webpage",
+    "abstract": "OWASP project for AI Bill of Materials. Includes AIBOM Generator tool.",
+    "title": "OWASP AIBOM Project",
+    "URL": "https://owaspaibom.org/"
+  },
+  {
+    "id": "23556265/KEADT3PK",
+    "type": "report",
+    "abstract": "International Council on Archives ontology for archival description. GitHub: ICA-EGAD/RiC-O.",
+    "title": "Records in Contexts Ontology (RiC-O)",
+    "URL": "https://www.ica.org/standards/ric/ontology"
+  },
+  {
+    "id": "23556265/EMBZ8D8N",
+    "type": "webpage",
+    "abstract": "European Archival Records and Knowledge Foundation.",
+    "title": "E-ARK Specifications (OAIS Implementation)",
+    "URL": "https://www.e-ark-foundation.eu"
+  },
+  {
+    "id": "23556265/WE4EDFCB",
+    "type": "report",
+    "abstract": "Open Archival Information System reference model. ISO 14721:2025 (published Dec 2024). Foundation for Gap 5 (Designated Community mapping).",
+    "title": "OAIS Reference Model (ISO 14721:2025 / CCSDS 650.0-M-2)",
+    "URL": "https://public.ccsds.org/publications/archive/650x0m2.pdf",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/696Q2G2M",
+    "type": "webpage",
+    "abstract": "Library of Congress initiative for C2PA in galleries, libraries, archives, and museums. Founded January 2025.",
+    "title": "C2PA for G+LAM Community Group (Library of Congress)",
+    "URL": "https://blogs.loc.gov/thesignal/2025/07/c2pa-glam/",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/AI3E8GTK",
+    "type": "software",
+    "abstract": "Python SDK for C2PA content provenance.",
+    "title": "c2pa-python (Content Authenticity SDK)",
+    "URL": "https://pypi.org/project/c2pa-python/"
+  },
+  {
+    "id": "23556265/5N9FQNEA",
+    "type": "report",
+    "abstract": "Content provenance and authenticity standard. Active draft, December 2025.",
+    "title": "C2PA Technical Specification v2.3",
+    "URL": "https://spec.c2pa.org/specifications/specifications/2.3/specs/C2PA_Specification.html",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/75RT72MS",
+    "type": "article",
+    "abstract": "OSI-inspired layered reference architecture for AI agents.",
+    "title": "Agent-OSI Reference Architecture (arXiv:2602.13795)",
+    "URL": "https://arxiv.org/abs/2602.13795",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/HNFUEI2B",
+    "type": "article",
+    "abstract": "Security threat modeling for A2A and Agora protocols.",
+    "title": "Security Threat Modeling for Agent Protocols (arXiv:2602.11327)",
+    "URL": "https://arxiv.org/abs/2602.11327",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/QBXPD5I3",
+    "type": "article",
+    "abstract": "MCP-facilitated multi-agent system for materials science (VASP simulations).",
+    "title": "VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations",
+    "URL": "https://arxiv.org/abs/2508.07035",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/BSKB4TQD",
+    "type": "article",
+    "abstract": "Analysis of MCP and A2A protocol interoperability.",
+    "title": "A Study on the MCP × A2A Framework for Enhancing Interoperability",
+    "URL": "https://arxiv.org/abs/2506.01804",
+    "author": [
+      {
+        "family": "Jeong",
+        "given": ""
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/TEZKUI4E",
+    "type": "article",
+    "abstract": "AI-supported research platform from TIB Hannover. ISWC 2025 (Nara, Japan). Uses ORKG for structured scholarly knowledge.",
+    "title": "TIB AIssistant: a Platform for AI-Supported Research",
+    "URL": "https://arxiv.org/abs/2502.14297",
+    "author": [
+      {
+        "family": "Oelen",
+        "given": "A."
+      },
+      {
+        "family": "Auer",
+        "given": "S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/G2733XZ8",
+    "type": "article",
+    "abstract": "Reproducibility-constrained framework for LLM-driven scientific workflows. PyPI: pip install rlam.",
+    "title": "R-LAM: Reproducibility-Constrained Large Action Models for Scientific Workflow Automation",
+    "URL": "https://arxiv.org/abs/2601.09749",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/JU6Z63IR",
+    "type": "article",
+    "abstract": "Empirical LLM reproducibility study for ICSE 2026.",
+    "title": "LLM Reproducibility Study (ICSE 2026)",
+    "URL": "https://arxiv.org/abs/2510.25506"
+  },
+  {
+    "id": "23556265/6SZ448MV",
+    "type": "article",
+    "abstract": "Study on reproducibility in LLM research. ICSE 2026.",
+    "title": "The Reproducibility Crisis in LLM Research",
+    "URL": "https://arxiv.org/abs/2512.00651",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/K3WPPQ79",
+    "type": "article",
+    "abstract": "Defense against prompt injection in multi-agent systems using provenance-aware techniques.",
+    "title": "Multimodal Provenance-Aware Defense Framework (arXiv:2512.23557)",
+    "URL": "https://arxiv.org/abs/2512.23557",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/7S55FDXA",
+    "type": "article",
+    "abstract": "Federated agent architecture for scientific workflows. Argonne/UChicago. Updated January 2026.",
+    "title": "Empowering Scientific Workflows with Federated Agents",
+    "URL": "https://arxiv.org/abs/2505.05428",
+    "author": [
+      {
+        "family": "Kamatar",
+        "given": ""
+      },
+      {
+        "family": "Pauloski",
+        "given": ""
+      },
+      {
+        "family": "Babuji",
+        "given": ""
+      },
+      {
+        "family": "Chard",
+        "given": ""
+      },
+      {
+        "family": "Foster",
+        "given": ""
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/39CVUTKC",
+    "type": "article",
+    "abstract": "Roadmap for interconnected autonomous science labs.",
+    "title": "A Grassroots Network and Community Roadmap for Interconnected Autonomous Science Laboratories",
+    "URL": "https://arxiv.org/abs/2506.17510",
+    "author": [
+      {
+        "family": "Ferreira da Silva",
+        "given": "R."
+      },
+      {
+        "family": "Coffee",
+        "given": ""
+      },
+      {
+        "family": "Foster",
+        "given": ""
+      },
+      {
+        "family": "Hamilton",
+        "given": ""
+      },
+      {
+        "family": "Jha",
+        "given": ""
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/DQQ7CZ2T",
+    "type": "article",
+    "abstract": "Vision paper on scientific workflows and agentic AI.",
+    "title": "The (R)evolution of Scientific Workflows in the Agentic AI Era",
+    "URL": "https://arxiv.org/abs/2509.09915",
+    "author": [
+      {
+        "family": "Shin",
+        "given": ""
+      },
+      {
+        "family": "Souza",
+        "given": "R."
+      },
+      {
+        "family": "Rosendo",
+        "given": ""
+      },
+      {
+        "family": "Suter",
+        "given": ""
+      },
+      {
+        "family": "Wang",
+        "given": ""
+      },
+      {
+        "family": "Balaprakash",
+        "given": ""
+      },
+      {
+        "family": "Ferreira da Silva",
+        "given": "R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/JKVUNTDH",
+    "type": "paper-conference",
+    "abstract": "Reference architecture for LLM agent workflow provenance. SC Workshops '25 (November 2025). v2 confirms MCP architecture.",
+    "DOI": "10.1145/3731599.3767582",
+    "event-title": "SC Workshops '25",
+    "title": "LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology",
+    "URL": "https://arxiv.org/abs/2509.13978",
+    "author": [
+      {
+        "family": "Shin",
+        "given": ""
+      },
+      {
+        "family": "Souza",
+        "given": "R."
+      },
+      {
+        "family": "Balaprakash",
+        "given": ""
+      },
+      {
+        "family": "Ferreira da Silva",
+        "given": "R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/C53MPIXD",
+    "type": "article",
+    "abstract": "Unified provenance model for AI agent interactions. Accepted IEEE e-Science 2025.",
+    "title": "PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions",
+    "URL": "https://arxiv.org/abs/2508.02866",
+    "author": [
+      {
+        "family": "Souza",
+        "given": "R."
+      },
+      {
+        "family": "Gueroudji",
+        "given": ""
+      },
+      {
+        "family": "DeWitt",
+        "given": ""
+      },
+      {
+        "family": "Rosendo",
+        "given": ""
+      },
+      {
+        "family": "Ghosal",
+        "given": ""
+      },
+      {
+        "family": "Ross",
+        "given": ""
+      },
+      {
+        "family": "Balaprakash",
+        "given": ""
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/DQC97EKZ",
+    "type": "software",
+    "abstract": "CNCF OpenTelemetry semantic conventions for generative AI and agent spans. Key for Gap 3 (PROV-O to OTel mapping).",
+    "title": "OpenTelemetry GenAI Semantic Conventions",
+    "URL": "https://opentelemetry.io/docs/specs/semconv/gen-ai/"
+  },
+  {
+    "id": "23556265/29U4ABDP",
+    "type": "software",
+    "abstract": "Open-source agent infrastructure (35+ repos). Includes slim-otel, observe SDK covering all three protocol layers. Founded July 2025 under Linux Foundation.",
+    "title": "AGNTCY (Cisco/Linux Foundation)",
+    "URL": "https://agntcy.org",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/6BPGSQQG",
+    "type": "report",
+    "abstract": "IETF draft extending SCIM 2.0 (RFC 7643) for agent identity.",
+    "title": "SCIM for Agents (IETF draft-abbey-scim-agent-extension)",
+    "URL": "https://datatracker.ietf.org/doc/draft-abbey-scim-agent-extension/"
+  },
+  {
+    "id": "23556265/TTUX7UZX",
+    "type": "report",
+    "abstract": "IETF Internet-Draft for agent:// URI scheme (v02, Oct 2025). See also draft-sogomonian-ai-uri-scheme.",
+    "title": "IETF agent:// URI Scheme (draft-narvaneni-agent-uri)",
+    "URL": "https://datatracker.ietf.org/doc/draft-narvaneni-agent-uri/",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/TXXKI6DH",
+    "type": "report",
+    "abstract": "W3C Recommendation (2013). Core ontology for provenance. Foundation for Gap 1-3 work in ARP project.",
+    "title": "W3C PROV-O (Provenance Ontology)",
+    "URL": "https://www.w3.org/TR/prov-o/",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/QNECBC5E",
+    "type": "report",
+    "abstract": "Agent communication protocol. Spec at github.com/agntcy/acp-spec.",
+    "title": "Agent Communication Protocol (ACP)",
+    "URL": "https://agentcommunicationprotocol.dev"
+  },
+  {
+    "id": "23556265/BRWZD38T",
+    "type": "report",
+    "abstract": "Protocol for agent networking and discovery.",
+    "title": "Agent Network Protocol (ANP)",
+    "URL": "https://agentnetworkprotocol.com"
+  },
+  {
+    "id": "23556265/37DNE93B",
+    "type": "report",
+    "abstract": "Agent communication protocol from University of Oxford. Semantic-web-grounded agent discovery and interaction.",
+    "title": "Agora Protocol",
+    "URL": "https://agoraprotocol.org"
+  },
+  {
+    "id": "23556265/5F3BFMQU",
+    "type": "report",
+    "abstract": "Agent-to-agent communication protocol. v1.0: TSC formalized (8 companies), JWS signatures, OAuth/PKCE, extensions array confirmed as provenance extension insertion point.",
+    "title": "A2A Protocol (Agent-to-Agent) v1.0",
+    "URL": "https://a2aproject.org",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/4AFFSDCE",
+    "type": "report",
+    "abstract": "Protocol for LLM-to-tool integration. Current spec Nov 2025. Session G: ecosystem fracture signal (Perplexity CTO departure, context window consumption issues).",
+    "title": "Model Context Protocol (MCP) Specification",
+    "URL": "https://modelcontextprotocol.io",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "23556265/MQZNVDXR",
+    "type": "webpage",
+    "abstract": "Oak Ridge National Laboratory's open federated architecture for interconnected science ecosystems.",
+    "title": "ORNL INTERSECT",
+    "URL": "https://www.ornl.gov/intersect"
+  },
+  {
+    "id": "23556265/KBH4QK49",
+    "type": "webpage",
+    "abstract": "W3C community group for web-based agent standards.",
+    "title": "W3C WebAgents Community Group",
+    "URL": "https://www.w3.org/groups/cg/webagents/"
+  },
+  {
+    "id": "23556265/U3MH9482",
+    "type": "webpage",
+    "abstract": "Directed fund under Linux Foundation providing neutral governance for open-source agentic AI infrastructure. Founded December 9, 2025.",
+    "title": "Agentic AI Foundation (AAIF)",
+    "URL": "https://aaif.io",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          9
+        ]
+      ]
+    }
+  }
+]
