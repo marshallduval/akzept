@@ -1,0 +1,8 @@
+[project]
+name = "akzept"
+version = "0.0.1"
+description = "This is how you Zotero."
+requires-python = ">=3.10"
+dependencies = [
+    "pyzotero",
+]
